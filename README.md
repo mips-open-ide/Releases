@@ -1,6 +1,6 @@
 # MIPS Open IDE Releases
 
-## RELEASE NOTE - MIPS OPEN IDE v1.0.20190323
+## RELEASE NOTES - MIPS OPEN IDE v1.0.20190323
 
 ### NEW FEATURES:
 * Managed build and debug of embedded and embedded Linux applications.
@@ -20,7 +20,7 @@
 * An error image in the bottom left of Welcome Page.
 * Currently support to build only mips32r2 Big Endian (with MIPS Embedded Linux toolchain) and mips32r2 Little Endian (with MIPS Embedded toolchain).
 
-## ANTICIPATED NEXT RELEASE FEATURES:
+### ANTICIPATED NEXT RELEASE FEATURES:
 * Support for managed build of C++ application.
 * Update the Welcome Page.
 * Support to managed build of multiple MIPS architecture: Mips32r2-r6 BL, EL.
