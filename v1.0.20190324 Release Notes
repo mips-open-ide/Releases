@@ -1,1 +1,6 @@
+## v1.0.20190324 RELEASE NOTES - 
 
+### NEW FEATURES:
+* Updated the algorithm for MD5 checksum to speed up debug connection time and improve users' experience.
+* Added button to start QEMU manually.  Users can debug multiple runs of the same application on Embedded Linux quickly without having to restart QEMU each time.  Original logic that automatically starts QEMU at debug still remains.
+* Fixed the bug  A black frame appears at icon when creating new C project."
