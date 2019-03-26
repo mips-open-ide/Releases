@@ -1,6 +1,8 @@
 # MIPS Open IDE Releases
 
-## RELEASE NOTES - MIPS OPEN IDE v1.0.20190323
+## RELEASE NOTES - 
+
+[MIPS OPEN IDE v1.0.20190323 Download](http://dev-mips-new.pantheonsite.io/resources/download/)
 
 ### NEW FEATURES:
 * Managed build and debug of embedded and embedded Linux applications.
